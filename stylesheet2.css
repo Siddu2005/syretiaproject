@@ -1,0 +1,38 @@
+.interests-wrapper {
+    padding: 10px 20px;
+    height:625px;
+    background-color:black;
+    border-bottom: 8px solid white;
+}
+  
+.heading {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}    
+
+.heading h3 {
+    font-weight: bolder;
+    text-align: center;
+    font-size:40px;
+    color:darkblue;
+}
+
+.interest {
+  float: left;
+  width:50%;
+}
+
+.interest-icon img{
+  width:60%;
+  padding:20px 50px ;
+  border-radius:10%;
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 26px;
+  color:white;
+}
+
